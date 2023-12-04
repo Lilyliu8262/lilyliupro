@@ -21,7 +21,9 @@ Please click the name of the paper to download it.
 * [Jackknife Bias Reduction for Simulated Maximum Likelihood Estimator of Discrete Choice Models](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Jackknife.pdf)
 * [Bootstrapping M-Estimators with Multi-Dimensional Heterogeneity](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Bootstrap.pdf)
 
-## Applied Economics: 
+## Applied Economics
+
+Please click the name of the paper to download it.
 
 * [A Generation “Lost”: Education Interruptions by Great Leap Forward and Cultural Revolution](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Education.pdf)
 * [The Effects of Political Persecution on Education in China](https://github.com/Lilyliu8262/Lily-s-Website/blob/main/Paper/Political_Persecution.pdf)
